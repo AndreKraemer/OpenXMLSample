@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenXmlDemo", "OpenXmlDemo\OpenXmlDemo.csproj", "{48D754F2-0251-4B76-BB8F-320875DC7673}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{34FAABE8-ABF4-4CA7-B0F0-A043900A1890}"
+	ProjectSection(SolutionItems) = preProject
+		license.txt = license.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48D754F2-0251-4B76-BB8F-320875DC7673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D754F2-0251-4B76-BB8F-320875DC7673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D754F2-0251-4B76-BB8F-320875DC7673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D754F2-0251-4B76-BB8F-320875DC7673}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

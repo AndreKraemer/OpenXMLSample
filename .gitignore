@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.OpenXmlDemo.boltdata
+/OpenXmlDemo/bin/Debug
+/OpenXmlDemo/obj/Debug
