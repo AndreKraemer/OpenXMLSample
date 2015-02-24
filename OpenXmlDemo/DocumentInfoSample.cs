@@ -22,7 +22,7 @@ namespace OpenXmlDemo
         {
             using (WordprocessingDocument document = WordprocessingDocument.Open(fileName, false))
             {
-                var author = document.PackageProperties.Creator;
+                string author = document.PackageProperties.Creator;
                 Console.WriteLine(author);
             }
         }
